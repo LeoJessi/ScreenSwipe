@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    compileSdkVersion 34
+    compileSdkVersion 30
     namespace = "top.jessi.swipeback"
 
     defaultConfig {
         minSdkVersion 21
-        targetSdkVersion 34
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
 
@@ -29,5 +29,5 @@ android {
 }
 
 dependencies {
-    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'androidx.appcompat:appcompat:1.2.0'
 }
