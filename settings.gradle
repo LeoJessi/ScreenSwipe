@@ -1,0 +1,4 @@
+rootProject.name = "ScreenSwipe"
+include ':app'
+include ':twinking'
+include ':swipeback'
